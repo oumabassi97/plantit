@@ -1,0 +1,51 @@
+{
+    "use": "false",
+    "bannerAdUnitId1": {
+        "true": "ca-app-pub-6633825758455454/3671479323",
+        "false": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "bannerAdUnitId2": {
+        "true": "ca-app-pub-6633825758455454/4126774895",
+        "false": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "bannerAdUnitId3": {
+        "true": "ca-app-pub-6633825758455454/9187529884",
+        "false": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "bannerAdUnitId4": {
+        "true": "ca-app-pub-6633825758455454/5050928035",
+        "false": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "bannerAdUnitId5": {
+        "true": "ca-app-pub-6633825758455454/7334272607",
+        "false": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "interstitialAdUnitId1": {
+        "true": "ca-app-pub-6633825758455454/8798601356",
+        "false": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "interstitialAdUnitId2": {
+        "true": "ca-app-pub-6633825758455454/8415457971",
+        "false": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "interstitialAdUnitId3": {
+        "true": "ca-app-pub-6633825758455454/7419152648",
+        "false": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "interstitialAdUnitId4": {
+        "true": "ca-app-pub-6633825758455454/3546274670",
+        "false": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "interstitialAdUnitId5": {
+        "true": "ca-app-pub-6633825758455454/3203455901",
+        "false": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "nativeAdUnitId": {
+        "true": "",
+        "false": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "openaddId": {
+        "true": "ca-app-pub-6633825758455454/1967515417",
+        "false": "ca-app-pub-3940256099942544/3419835294"
+    }
+}
