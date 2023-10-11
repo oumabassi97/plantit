@@ -34,7 +34,36 @@
     "image": "https://cdn.shopify.com/s/files/1/0434/5426/7555/files/mealybug_fluff_600x600.jpg?v=1660338801",
     "title": "Mealybugs: White, Fluffy Pests",
     "article": "<h1>Mealybugs: White, Fluffy Pests</h1><p>Mealybugs are soft-bodied pests that appear as white, fluffy masses on plants. They feed on plant sap, weakening the plant and excreting honeydew in the process.</p><h2>Causes and Symptoms</h2><p>Mealybugs are often found in the nooks and crannies of plants, especially where leaves join stems. They can cause leaves to yellow and curl, and heavy infestations can lead to stunted growth.</p><h2>Prevention and Treatment</h2><p>Isolate infested plants to prevent the spread of mealybugs. Remove them manually using a soft brush or alcohol-soaked cotton swabs. Insecticidal soaps or neem oil can also be effective. For severe infestations, systemic insecticides might be necessary.</p><h2>Impact on Plants</h2><p>Mealybugs can severely weaken plants, making them more susceptible to other pests and diseases. The honeydew they produce can also lead to the growth of sooty mold, further harming the plant.</p>"
+  },
+{
+    "image": "https://example-image-url.com/fungus-gnats.jpg",
+    "title": "Fungus Gnats: The Soil Pests",
+    "article": "<h1>Fungus Gnats: The Soil Pests</h1><p>Fungus gnats are tiny, fly-like pests that hover around houseplants. Their larvae feed on organic matter in the soil, sometimes damaging plant roots in the process.</p><h2>Causes and Symptoms</h2><p>Overwatering and having too much organic matter in the soil can attract these pests. Adult gnats are often seen flying around plants, while their larvae can cause roots to appear thin and mushy.</p><h2>Prevention and Treatment</h2><p>Letting the soil dry out between waterings and using yellow sticky traps can help control and prevent infestations. Beneficial nematodes can also be introduced to the soil to target the larvae.</p><h2>Impact on Plants</h2><p>While adult gnats are mostly a nuisance, their larvae can damage young plants and seedlings, leading to reduced growth and vitality.</p>"
+  },
+  {
+    "image": "https://example-image-url.com/thrips.jpg",
+    "title": "Thrips: Tiny Leaf Damagers",
+    "article": "<h1>Thrips: Tiny Leaf Damagers</h1><p>Thrips are minuscule insects that feed on plant sap, causing stippling, silvering, or distorted growth on leaves.</p><h2>Causes and Symptoms</h2><p>Thrips are attracted to light-colored plants and can multiply rapidly in warm conditions. Affected leaves may have a stippled or silvery appearance and can become distorted or drop prematurely.</p><h2>Prevention and Treatment</h2><p>Regularly inspect plants and promptly remove any detected thrips. Insecticidal soaps, neem oil, or predatory insects like ladybugs can help control infestations.</p><h2>Impact on Plants</h2><p>Thrips can reduce the plant's ability to photosynthesize, leading to reduced vigor and growth. They can also transmit plant viruses.</p>"
+  },
+  {
+    "image": "https://example-image-url.com/whitefly.jpg",
+    "title": "Whitefly: The Hovering Pests",
+    "article": "<h1>Whitefly: The Hovering Pests</h1><p>Whiteflies are tiny, white, winged insects that suck plant sap, weakening the plant and excreting honeydew.</p><h2>Causes and Symptoms</h2><p>They are often found on the undersides of leaves and can cause yellowing, reduced growth, and leaf drop. The honeydew they produce can lead to sooty mold growth.</p><h2>Prevention and Treatment</h2><p>Introduce beneficial insects, like ladybugs and lacewings, to control whitefly populations. Yellow sticky traps and insecticidal soaps can also be effective.</p><h2>Impact on Plants</h2><p>Whiteflies can transmit plant viruses and their feeding can lead to reduced plant vigor and growth.</p>"
+  },
+  {
+    "image": "https://example-image-url.com/bacterial-wilt.jpg",
+    "title": "Bacterial Wilt: The Plant Collapser",
+    "article": "<h1>Bacterial Wilt: The Plant Collapser</h1><p>Bacterial wilt is a disease caused by various bacteria that infect plant vascular systems, leading to wilting and death.</p><h2>Causes and Symptoms</h2><p>The bacteria enter through wounds or natural openings and block the plant's vascular system. Affected plants wilt rapidly, even if the soil is moist, and may exhibit a brown discoloration in their stems.</p><h2>Prevention and Treatment</h2><p>Avoid wounding plants, ensure good air circulation, and practice crop rotation for susceptible plants. Infected plants should be removed and destroyed.</p><h2>Impact on Plants</h2><p>Bacterial wilt can quickly kill plants, especially in warm, humid conditions.</p>"
+  },
+  {
+    "image": "https://example-image-url.com/mosaic-virus.jpg",
+    "title": "Mosaic Virus: The Leaf Disruptor",
+    "article": "<h1>Mosaic Virus: The Leaf Disruptor</h1><p>Mosaic viruses cause mottled green or yellow patterns on leaves, leading to reduced photosynthesis and growth.</p><h2>Causes and Symptoms</h2><p>Transmitted by pests like aphids or through direct contact, affected plants show a mosaic-like pattern on leaves, stunted growth, and malformed flowers or fruits.</p><h2>Prevention and Treatment</h2><p>There's no cure for mosaic viruses. Infected plants should be removed and destroyed. Control aphid populations and avoid using tobacco around susceptible plants, as it can be a source of the virus.</p><h2>Impact on Plants</h2><p>Mosaic viruses can severely reduce plant vigor, yield, and aesthetic value.</p>"
+  },
+  {
+    "image": "https://example-image-url.com/rust.jpg",
+    "title": "Rust: The Orange Blight",
+    "article": "<h1>Rust: The Orange Blight</h1><p>Rust is a fungal disease that causes orange, rust-like spots on plant leaves, leading to reduced photosynthesis and growth.</p><h2>Causes and Symptoms</h2><p>Rust fungi thrive in humid conditions. Affected plants exhibit orange or brown pustules on the undersides of leaves. These pustules release spores that can infect other plants.</p><h2>Prevention and Treatment</h2><p>Ensure good air circulation, avoid overhead watering, and remove and destroy affected leaves. Fungicides can be used for severe infestations.</p><h2>Impact on Plants</h2><p>Rust can reduce a plant's ability to photosynthesize, leading to reduced vigor and growth. Severe infections can lead to defoliation and plant death.</p>"
   }
-
   
 ]
